@@ -18,6 +18,7 @@ public class Suma {
 	//Comentario
 
         int a;
+        int y;
         int b;
         int c;
         int d;
