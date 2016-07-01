@@ -18,10 +18,10 @@ public class Suma {
 	//Comentario
 
         int a;
-        int y;
         int b;
         int c;
         int d;
+        int h;
         System.out.println("Ingrese un numero");
         a=l.nextInt();
         System.out.println("Ingrese un numero");
