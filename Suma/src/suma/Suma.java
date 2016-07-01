@@ -29,6 +29,7 @@ public class Suma {
         b=l.nextInt();
         c=a+b;
         d=a-b;
+        f=a/b;
         System.out.println("La suma es: "+c);
                 System.out.println("La resta es: "+d);
     }
