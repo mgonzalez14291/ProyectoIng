@@ -16,13 +16,14 @@ public class Suma {
     public static void main(String[] arg){
         Scanner l= new Scanner(System.in);
 	//Comentario
+
         int a;
         int b;
         int c;
         int d;
-        System.out.println("Ingrese un numero:");
+        System.out.println("Ingrese un numero");
         a=l.nextInt();
-        System.out.println("Ingrese un numero:");
+        System.out.println("Ingrese un numero");
         b=l.nextInt();
         c=a+b;
         d=a-b;
