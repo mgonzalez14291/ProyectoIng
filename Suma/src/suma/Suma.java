@@ -22,6 +22,7 @@ public class Suma {
         int c;
         int d;
         int h;
+        int f;
         System.out.println("Ingrese un numero");
         a=l.nextInt();
         System.out.println("Ingrese un numero");
